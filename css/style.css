@@ -1,8 +1,8 @@
 /*=======================================================
 	
-	Item	: 	N5 - Minimal Resume/CV & vCard Template
+	Item	: 	Isaac'23
 	
-	Author	: 	Noman Ali Samejo
+	Author	: 	Isaac Yakubu 
 	
 --------------------------------------------------------------------------------------
 	List Of Contents
@@ -275,7 +275,7 @@ body.border-dark .main-content:after{
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
-	font-size: medium;
+	font-size:small;
 }
 .intro-text > h1{
 	margin:0;
