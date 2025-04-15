@@ -25,5 +25,4 @@ Here, I share insights on front-end development, coding techniques, UI/UX design
 
 ## 🔗 Stay Connected
 Join the conversation, leave comments, and engage with the latest content!
-
----:rocket:
+🚀:
